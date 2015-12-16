@@ -1,3 +1,6 @@
+
+
+
 /**
  * @(#)GradeCalculator.java
  *
@@ -5,6 +8,8 @@
  * @author
  * @version 1.00 2015/12/16
  */
+
+// This is a working simple program for computing the grades
 
 import java.util.*;
 public class GradeCalculator {
@@ -16,7 +21,7 @@ public class GradeCalculator {
 		int midtermGrade = kbd.nextInt();
 		int x = (219 - (prelimGrade + midtermGrade));
 
-		if(prelimGrade + midtermGrade + 65 >= 219){
+		if(prelimGrade + midtermGrade + 65 >= 219){ //Insert comment
 			System.out.print("Congratulations!!! Sure pass!");
 			System.out.print("Your standing grade is "+ (prelimGrade + midtermGrade + 65)/3 + "\nKeep up the good work!");
 
