@@ -1,3 +1,6 @@
+
+
+
 /**
  * @(#)GradeCalculator.java
  *
@@ -5,6 +8,8 @@
  * @author
  * @version 1.00 2015/12/16
  */
+
+// This is a working simple program for computing the grades
 
 import java.util.*;
 public class GradeCalculator {
