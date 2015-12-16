@@ -1,7 +1,7 @@
 /**
  * @(#)GradeCalculator.java
  *
- *
+ *	Programming Application Project
  * @author
  * @version 1.00 2015/12/16
  */
